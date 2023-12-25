@@ -1,0 +1,4 @@
+data/com.keanukerr.Nixie.desktop.in
+data/com.keanukerr.Nixie.metainfo.xml.in
+data/com.keanukerr.Nixie.gschema.xml
+src/window.ui

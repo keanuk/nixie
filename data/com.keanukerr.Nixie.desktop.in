@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=nixie
+Exec=nixie
+Icon=com.keanukerr.Nixie
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
